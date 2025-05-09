@@ -1,0 +1,32 @@
+diff --git a/node_modules/@mui/x-telemetry/context.js b/node_modules/@mui/x-telemetry/context.js
+index 3bf5df9..6bd761c 100644
+--- a/node_modules/@mui/x-telemetry/context.js
++++ b/node_modules/@mui/x-telemetry/context.js
+@@ -9,8 +9,8 @@ var _default = exports.default = {
+     "isDocker": false,
+     "isCI": false,
+     "machineId": null,
+-    "projectId": "ac512429ceb32d687f47ace6c6e7c8adf36180a05b3feaa8c106abce5567bd94",
+-    "sessionId": "7ba90649e90bfe07c399ed68563310fb93bd7ff5ee169597f6c3d568b67018fa",
++    "projectId": "b28c94b2195c8ed259f0b415aaee3f39b0b2920a4537611499fa044956917a21",
++    "sessionId": "da54ec849aa44de568b46670d08739525136a14f01fb0d6c234f6a20ccc38406",
+     "anonymousId": "2b2f56c30925f2711e058f35617d2077906add3170f501783f61bcb119297572"
+   }
+ };
+\ No newline at end of file
+diff --git a/node_modules/@mui/x-telemetry/esm/context.js b/node_modules/@mui/x-telemetry/esm/context.js
+index 22c7be6..ab9e7bf 100644
+--- a/node_modules/@mui/x-telemetry/esm/context.js
++++ b/node_modules/@mui/x-telemetry/esm/context.js
+@@ -6,8 +6,8 @@ export default {
+     "isDocker": false,
+     "isCI": false,
+     "machineId": null,
+-    "projectId": "ac512429ceb32d687f47ace6c6e7c8adf36180a05b3feaa8c106abce5567bd94",
+-    "sessionId": "7ba90649e90bfe07c399ed68563310fb93bd7ff5ee169597f6c3d568b67018fa",
++    "projectId": "b28c94b2195c8ed259f0b415aaee3f39b0b2920a4537611499fa044956917a21",
++    "sessionId": "da54ec849aa44de568b46670d08739525136a14f01fb0d6c234f6a20ccc38406",
+     "anonymousId": "2b2f56c30925f2711e058f35617d2077906add3170f501783f61bcb119297572"
+   }
+ };
+\ No newline at end of file
